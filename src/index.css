@@ -1,1 +1,20 @@
 @import "tailwindcss"
+
+@theme {
+    --color-text-white: #FFFFFF;
+    --color-text-brown: #402B2B;
+    --color-orange: #EE4D47;
+    --color-background: #FEF8F5;;
+  }
+
+/* * fonts */
+
+@font-face {
+  font-family: rubik;
+  src: url("./fonts/Rubik-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: display;
+  src: url("./fonts/DMSerifDisplay-Regular.ttf");
+}
