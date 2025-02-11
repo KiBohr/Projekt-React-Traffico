@@ -1,10 +1,10 @@
-@import "tailwindcss"
+@import "tailwindcss";
 
 @theme {
     --color-text-white: #FFFFFF;
     --color-text-brown: #402B2B;
     --color-orange: #EE4D47;
-    --color-background: #FEF8F5;;
+    --color-background: #FEF8F5;
   }
 
 /* * fonts */
